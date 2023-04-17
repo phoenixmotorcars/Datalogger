@@ -1,6 +1,4 @@
 import os
-import sys
-sys.path.append()
 import can
 import cantools
 import lib.CAN_read as CAN_read
